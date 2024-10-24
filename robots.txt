@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://mubecuze.github.io/sitemap/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/kut/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/BLj/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/ApW/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/ZTa/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/xmZ/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/XGb/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/eWS/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/AiD/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/sjr/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/cqL/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/hxj/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/PMR/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/oyw/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/lPq/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/jRG/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/PeN/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/MKC/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/WOP/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/Ers/sitemap_index.mubecuze
+Sitemap: https://mubecuze.github.io/Dmt/sitemap_index.mubecuze
